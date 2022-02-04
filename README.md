@@ -1,2 +1,2 @@
-# laurenlenn123
+# laurenlenn123.github.io
  JMM 341
