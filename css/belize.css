@@ -1,6 +1,6 @@
 body {
   font-family: "Times New Roman", "Times", serif;
-  font-size: 18px;
+  font-size: 16px;
   line-height:1.5;
 
   display: grid;
@@ -13,6 +13,11 @@ body {
 
 max-width: 960px;
 margin: 0 auto;
+}
+.grid div{
+  border: 2px solid rbg(255,13,13);
+  border-radius: 4px;
+  background-color: rgba(143,211,255,0.8);
 }
 
 h1{
@@ -35,7 +40,7 @@ main{
 
 footer{
   grid-area: footer;
-  padding-left:18px;
+  padding-left:15px;
 }
 
 
