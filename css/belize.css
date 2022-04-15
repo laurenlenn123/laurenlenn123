@@ -40,8 +40,8 @@ main{
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-areas:
-  "nav  introduction"
-  "prominent issues in Belize   elevation"
+  "introduction introduction"
+  "prominent issues in Belize   elevation";
 }
 
 footer{
