@@ -26,7 +26,11 @@ h2{
 
 header{
   grid-area: header;
-  padding:18px;
+  padding:20px;
+}
+
+nav{
+  grid-area: nav;
 }
 
 main{
