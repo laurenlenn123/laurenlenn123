@@ -31,12 +31,6 @@ header{
 
 main{
   grid-area: main;
-
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-areas:
-  "introduction introduction"
-  "geography  people and society";
 }
 
 footer{
