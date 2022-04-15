@@ -15,9 +15,9 @@ max-width: 960px;
 margin: 0 auto;
 }
 .grid div{
-  border: 2px solid rbg(255,13,13);
+  border: 2px solid rgb(255,13,13);
   border-radius: 4px;
-  background-color: rgba(143,211,255,0.8);
+  background-color:
 }
 
 h1{
@@ -50,7 +50,7 @@ footer p{
 
 header,
 footer{
-  background-color: #eee;
+  background-color: rgba(143,211,255,0.8);
 
 }
 
