@@ -41,7 +41,7 @@ main{
   grid-template-columns: 1fr 1fr;
   grid-template-areas:
   "introduction introduction"
-  "prominent issues in Belize   elevation";
+  "geography  people and society";
 }
 
 footer{
@@ -64,4 +64,16 @@ footer{
 section{
   background-color: #ddd;
   padding 18px;
+}
+
+#introduction{
+  grid-area: introduction;
+}
+
+#geography{
+  grid-area: geography;
+}
+
+#peopleandsociety{
+  grid-area: peopleandsociety;
 }
