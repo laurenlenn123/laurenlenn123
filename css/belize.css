@@ -35,9 +35,11 @@ h2{
   margin-top:0;
 }
 
-header{
+.header{
   grid-area: header;
   padding:=18px;
+  text-align: center;
+  background-color: rgba(255, 99, 71, 0.5);
 }
 
 main{
@@ -62,5 +64,5 @@ footer{
 
 section{
   background-color: rgba(255, 255, 255, 0.8);
-  padding 18px;
+  padding: 18px;
 }
