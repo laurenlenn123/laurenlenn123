@@ -4,7 +4,7 @@ body {
   line-height:1.5;
 
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 300px 1fr;
   grid-template-areas:
     "header header"
     "nav   main"
@@ -26,7 +26,7 @@ h2{
 
 header{
   grid-area: header;
-  padding:20px;
+  padding:=18px;
 }
 
 nav{
