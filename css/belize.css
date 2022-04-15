@@ -7,7 +7,7 @@ body {
   grid-template-columns: 1fr 2fr;
   grid-template-areas:
     "header header"
-    "main    main"
+    "nav    main"
     "footer footer";
   grid-gap: 18px;
 
