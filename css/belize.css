@@ -19,13 +19,6 @@ margin: 100px auto;
 main{
   grid-area:main;
 
-  display:grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-areas:
-  "introduction introduction"
-  "pictures environment";
-
-
 }
 
 nav{
