@@ -21,6 +21,10 @@ main{
 
 }
 
+nav{
+  grid-area: nav;
+}
+
 
 h1{
   margin: 2;
