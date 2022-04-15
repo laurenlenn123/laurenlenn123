@@ -4,10 +4,10 @@ body {
   line-height:1.5;
 
   display: grid;
-  grid-template-columns: 300px 1fr;
+  grid-template-columns: 1fr 2fr;
   grid-template-areas:
     "header header"
-    "nav   main"
+    "nav     main"
     "footer footer";
   grid-gap: 18px;
 
@@ -27,11 +27,6 @@ h2{
 header{
   grid-area: header;
   padding:=18px;
-  font-family: "Lucida Console" , "Courier New" , monospace;
-}
-
-nav{
-  grid-area: nav;
 }
 
 main{
