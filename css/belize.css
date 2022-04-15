@@ -19,7 +19,7 @@ margin: 100px auto;
 main{
   grid-area:main;
 
-  backgroun-color: rgba(255, 255, 255, 0.8; 
+  background-color: rgba(255, 255, 255, 0.8); 
 
 }
 
@@ -37,9 +37,6 @@ h2{
   margin-top:0;
 }
 
-.main{
-  background-color: rgba(255,255,255,0.8);
-}
 
 .grid div{
   background-color:rgba(255,99,71,0.5);
