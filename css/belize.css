@@ -16,17 +16,17 @@ margin: 100px auto;
 }
 
 .header{
-  grid-area:header;
+  grid-area: header;
   background-color: rgb(255,94,94);
 }
 
 .main{
-  grid-area:main;
+  grid-area: main;
   background-color: rgba(143, 211, 255, 0.8);
 }
 
 .footer{
-  grid-area:footer;
+  grid-area: footer;
   background-color: rgba(255, 255, 255, 0.8);
 }
 
