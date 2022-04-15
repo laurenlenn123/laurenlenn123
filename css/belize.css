@@ -42,6 +42,8 @@ header{
 
 main{
   grid-area: main;
+
+  background-color: rgba(255, 255, 255, 0.8);
 }
 
 footer{
@@ -56,7 +58,7 @@ footer p{
 
 header,
 footer{
-  background-color: rgba(143,211,255,0.8);
+  background-color: rgba(255, 99, 71, 0.5);
 
 }
 
