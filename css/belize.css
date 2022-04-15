@@ -15,8 +15,12 @@ max-width: 960px;
 margin: 100px auto;
 }
 
-.main{
+
+main{
+  grid-area:main;
+
   background-color: rgba(255, 255, 255, 0.8);
+
 }
 
 nav{
@@ -40,7 +44,9 @@ h2{
 
 }
 
-
+main{
+  grid-area: main;
+}
 
 footer{
   grid-area: footer;
