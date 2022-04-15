@@ -54,15 +54,3 @@ section{
   background-color: #ddd;
   padding 18px;
 }
-
-#introduction{
-  grid-area: introduction;
-}
-
-#geography{
-  grid-area: geography;
-}
-
-#peopleandsociety{
-  grid-area: peopleandsociety;
-}
