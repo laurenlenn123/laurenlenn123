@@ -35,11 +35,10 @@ h2{
   margin-top:0;
 }
 
-.header{
-  grid-area: header;
-  padding:=18px;
-  text-align: center;
-  background-color: rgba(255,99,71,0.5);
+.grid div{
+  background-color:rgba(255,99,71,0.5);
+}
+
 }
 
 main{
