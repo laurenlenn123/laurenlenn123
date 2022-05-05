@@ -2,12 +2,13 @@
 .grid{
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-auto-rows: 1fr 1fr 1fr;
+  grid-auto-rows: 1fr 1fr 1fr 1fr;
   grid-gap: 1fr;
   grid-template-areas:
   "title" "title"
   "header" "header"
-  "nav" "main"
+  "nav"  "nav"
+  "main" "main"
   "footer" "footer"
 }
 
@@ -33,13 +34,6 @@
 
 .footer {
   grid-area: footer;
-}
-
-
-.grid div:nth-child(even) { background-color:red;}
-
-.grid div:nth-child(odd) {
-  background-color: green;
 }
 
 
