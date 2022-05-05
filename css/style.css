@@ -12,6 +12,8 @@ body{
   grid-gap: 18px;
   max-width: 960px;
   margin: 100px auto;
+  background-position: center;
+  background-color: #ddc5a7;
 }
 
 header{
