@@ -27,6 +27,9 @@ header{
   font-color: #987456;
 }
 
+figure{
+  font-size: 12px;
+}
 nav{
   grid-area: nav;
   text-align: center;
@@ -41,11 +44,6 @@ nav ul{
   justify-content: space-around;
   list-style-type: none;
   background-color: 987456;
-}
-
-img{
-float: left;
-margin-right: 10px;
 }
 
 body{
