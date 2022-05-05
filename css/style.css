@@ -28,11 +28,15 @@ header{
 nav{
   grid-area: nav;
   text-align: center;
+  outline: 3px solid;
+  outline-color: #987456;
 }
+
 nav ul{
   grid-area: nav;
   display: flex;
   flex-direction: row;
+  justify-content: space-around;
 }
 
 
