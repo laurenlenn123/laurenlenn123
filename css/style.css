@@ -7,13 +7,21 @@ body{
   grid-template-columns: 1fr 1fr;
   grid-template-areas:
     "header header"
-    "nav    main"
+    "nav    nav"
     "footer footer";
   grid-gap: 18px;
 
   max-width: 960px;
   margin: 100px auto;
 }
+.grid div{
+  border: 1px solid rgb(12,71,162);
+  border-radius: 3px;
+  bakground-color: rgba(12,71,162,0.8);
+  padding: 0.2rem;
+  color: #fff;
+}
+
 
 
 h1 {
