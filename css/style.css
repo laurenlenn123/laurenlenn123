@@ -27,7 +27,7 @@ header{
 
 nav{
   grid-area: nav;
-  dsiplay: flex;
+  display: flex;
   flex-direction: row;
 }
 
