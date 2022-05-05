@@ -17,6 +17,8 @@ body{
 header{
   grid-area: header;
   text-align: center;
+  align-content: center;
+  justify-content: center;
 }
 
 nav{
