@@ -2,18 +2,14 @@ body{
   font-family: "Times New Roman","Times", serif;
   font-size: 16px;
   line-height: 1.5;
-
-
 }
 
-main{
-  width: 400px;
-  border: 1px rgb(0,0,255);
+li{
+  float: left;
 }
 
-#box{
-  background-color: rgba(255,0,0,0.5);
-  border: 2px solid rgb(255,0,0);
-  width:100px;
-  height: 100px;
+a{
+  display: block;
+  padding: 8px;
+  background-color: #dddddd
 }
