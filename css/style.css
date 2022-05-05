@@ -41,7 +41,10 @@ nav ul{
   background-color: 987456;
 }
 
-
+img{
+float: left;
+margin-right: 10px;
+}
 
 body{
   grid-area: body;
