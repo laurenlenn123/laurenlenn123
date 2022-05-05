@@ -11,5 +11,22 @@ body{
   "footer" "footer"
   grid-gap: 18px;
   max-width: 960px;
-  margin: 100px auto; 
+  margin: 100px auto;
+}
+
+header{
+  grid-area: header;
+  text-align: center;
+}
+
+nav{
+  grid-area: nav;
+}
+
+body{
+  grid-area: body;
+}
+
+footer{
+  grid-area: footer;
 }
