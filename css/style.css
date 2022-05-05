@@ -27,9 +27,15 @@ header{
 
 nav{
   grid-area: nav;
+  text-align: center;
+}
+nav ul{
+  grid-area: nav;
   display: flex;
   flex-direction: row;
 }
+
+
 
 body{
   grid-area: body;
