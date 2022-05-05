@@ -2,7 +2,7 @@
 .grid{
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-auto-rows: 1fr 1fr 1fr 1fr;
+  grid-auto-rows: 1fr 1fr 1fr;
   grid-gap: 1fr;
   grid-template-areas:
   "title" "title"
@@ -13,6 +13,8 @@
 
 .title {
   grid-area: title;
+  grid-column: 1 / 2
+  grid-row: 1 / 3
 }
 
 .header {
