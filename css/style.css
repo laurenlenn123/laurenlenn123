@@ -38,6 +38,10 @@ h2{
 section{
   display: flex;
   flex-direction: row;
+  text-align: center;
+  background: center;
+  outline: 3px solid;
+  outline-color:  #987456;
 }
 
 figure{
