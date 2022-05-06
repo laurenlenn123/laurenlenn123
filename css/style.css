@@ -39,6 +39,7 @@ section{
   display: flex;
   flex-direction: row;
 }
+
 figure{
   font-size: 12px;
 }
