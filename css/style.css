@@ -69,6 +69,12 @@ nav ul{
   background-color: 987456;
 }
 
+footer{
+  grid-area: footer;
+  font-family: "Times New Roman","Times", serif;
+  font-size: 12px;
+}
+
 body{
   grid-area: body;
 }
