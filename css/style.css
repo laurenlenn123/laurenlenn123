@@ -38,7 +38,8 @@ h2{
 section{
   display: flex;
   flex-direction: row;
-  text-align: center;
+  justify-content: center;
+  align-items: center;
   background: center;
   outline: 3px solid;
   outline-color:  #987456;
