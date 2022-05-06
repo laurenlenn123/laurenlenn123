@@ -35,6 +35,10 @@ h2{
   outline-color: #987456;
 }
 
+section{
+  display: flex;
+  flex-direction: row;
+}
 figure{
   font-size: 12px;
 }
